@@ -1,0 +1,1 @@
+let a = 'Money follows Man!!';
