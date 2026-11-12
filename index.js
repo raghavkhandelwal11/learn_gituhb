@@ -1,0 +1,1 @@
+let a = 'Welcome my friends';
